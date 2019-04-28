@@ -37,7 +37,8 @@
 **StockScore_2.py简易流程图**
 
 ![StockScore_2.py简易流程图](https://catsjuice.cn/index/src/markdown/stock/mind201904281842.jpg "StockScore_2.py简易流程图")
-[流程图原图](https://catsjuice.cn/index/src/markdown/stock/mind201904281842.jpeg)
+
+[点击此处查看流程图原图](https://catsjuice.cn/index/src/markdown/stock/mind201904281842.jpeg)
 
 **下载**
 - 下载`.zip`文件
